@@ -7,5 +7,5 @@ If you want to check a PHP file's syntax you rely on ```php -l```. But that is r
 
 ## Features
 
-```check_syntax('some-file.php')``` will return true or false.
+Function ```php_check_syntax('some-file.php')``` will return true or false.
 
